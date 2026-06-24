@@ -8,6 +8,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sliding Window
 |  |
@@ -18,12 +19,14 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,10 +55,12 @@
 ## Greedy
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
 |  |
@@ -73,4 +78,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
