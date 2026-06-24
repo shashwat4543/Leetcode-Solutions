@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
