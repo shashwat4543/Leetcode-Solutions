@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0930-binary-subarrays-with-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0930-binary-subarrays-with-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 ## Counting
 |  |
 | ------- |
