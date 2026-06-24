@@ -43,6 +43,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Counting
 |  |
 | ------- |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
