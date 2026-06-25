@@ -112,4 +112,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0039-combination-sum) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
