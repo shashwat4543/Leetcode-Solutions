@@ -10,6 +10,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
