@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0930-binary-subarrays-with-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -118,6 +119,7 @@
 | [0039-combination-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Database
 |  |
 | ------- |
