@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -128,6 +129,7 @@
 | [0039-combination-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Database
