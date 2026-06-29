@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -85,6 +86,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
