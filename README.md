@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0338-counting-bits](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0338-counting-bits](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Enumeration
 |  |
