@@ -34,6 +34,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -55,6 +56,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -74,6 +76,7 @@
 | [0022-generate-parentheses](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
