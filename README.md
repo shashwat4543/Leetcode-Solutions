@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -78,6 +79,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -148,6 +150,7 @@
 | [0040-combination-sum-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Database
@@ -171,4 +174,9 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
