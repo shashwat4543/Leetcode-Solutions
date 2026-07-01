@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -57,6 +58,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0930-binary-subarrays-with-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -87,6 +89,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -99,6 +102,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -134,6 +138,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
