@@ -19,6 +19,7 @@
 | [0216-combination-sum-iii](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0930-binary-subarrays-with-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0079-word-search) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
