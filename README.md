@@ -23,6 +23,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -192,4 +193,5 @@
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/shashwat4543/Leetcode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 <!---LeetCode Topics End-->
